@@ -4,4 +4,4 @@ Network structure is very common in our daily applications, especially in the sy
 ## About the dataset
 I choose the Wiki dataset provided by openNE toolkit [https://github.com/thunlp/OpenNE](https://github.com/thunlp/OpenNE) for node classification task, which contains 2405 web pages from 19 categories and 17981 links among them. The Wiki dataset was composed by two files: "Wiki_edgelist.txt" and "Wiki_category.txt". The "Wiki_edgelist.txt" file stores the relationship graph between different nodes, which is a 2045 by 2045 adjacent matrix. The "Wiki_category.txt" file stores the actual classification of these nodes, which is used to evaluate the performance of my model in node classification task.
 
-About the detail of the project, please read the PDF file : [A Study of Neural Networks for Network Representation](/A Study of Neural Networks for Network Representation.pdf/)
+About the detail of the project, please read the PDF file : [A Study of Neural Networks for Network Representation](../A Study of Neural Networks for Network Representation.pdf/)
